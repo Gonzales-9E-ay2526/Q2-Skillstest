@@ -1,0 +1,28 @@
+body{
+    background-image: url(Las\ Pinas\ Facade.jpg); 
+    background-position: auto;
+    background-size: 2000px 1100px;
+    background-repeat: no-repeat;
+}
+
+.hero-text {
+    color: white;
+    padding: 10px;    
+    font-family: "Momo Trust Display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.container{
+    
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 70px;
+
+}
+
+.form-select {
+    border-radius: 6px;
+}
